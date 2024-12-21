@@ -3,8 +3,6 @@
 ## Project Overview
 - **Author:** Joshua Salami Peter
 - **Completion Date:** December 12, 2024
-- **Email:** jsalamipeter@gmail.com
-- **LinkedIn:** [Joshua Salami Peter](https://www.linkedin.com/in/jsalamipeter/)
 
 This project focuses on using machine learning to predict heart disease based on clinical and demographic data. By leveraging classification algorithms, the project aims to assist healthcare professionals in early detection and diagnosis of heart disease.
 
