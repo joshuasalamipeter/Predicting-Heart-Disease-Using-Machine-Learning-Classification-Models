@@ -91,7 +91,7 @@ Random Forest emerged as the best-performing model due to its robustness and exc
 - **Programming Language:** Python
 - **Libraries:**
   - Numpy, Pandas, Matplotlib, Seaborn
-  - Scikit-learn (Logistic Regression, Random Forest, SVM, etc.)
+  - Scikit-learn 
   - Imbalanced-learn (RandomOversampler)
 - **Environment:** Jupyter Notebook
 
